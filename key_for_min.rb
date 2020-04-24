@@ -6,8 +6,8 @@ def key_for_min_value(name_hash)
 end
 
 user_hash = {
-  :name => "Steve"
-  :location => "Idaho"
+  :name => "Steve",
+  :location => "Idaho",
   :email => "steve@stevemail.com"
 }
 name = user_hash[:name]
